@@ -12,12 +12,12 @@
 
  🌱 I’m currently learning **Core concepts of Data Science and Machine Learning.**
 
-💬 Ask me about **NUmpy, Pandas, Matplotlib, Seaborn, Python, C++ [here](https://github.com/amansagar88/amansagar88/issues)**
+💬 Ask me about **Numpy, Pandas, Matplotlib, Seaborn, Python, C++ [here](https://github.com/amansagar88/amansagar88/issues)**
 
 </div>
  
 <div align="center"> 
-  <a href="mailto:amansagaraman8851@gmail.com">
+  <a href="mailto:sagaraman.here@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 </div>
@@ -27,9 +27,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=numpy, pandas, seaborn,react,vscode,github,git,linux" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,react,,mysql,vscode,github," />
   <br>
-    <img src="https://skillicons.dev/icons?i=python,javascript,cpp,nextjs,mysql,bash" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,nextjs,bashgit,linux" /><br>
 </div>
 
 <br/>
